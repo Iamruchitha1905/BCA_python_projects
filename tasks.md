@@ -12,11 +12,13 @@
 - **bold**
 - *italic*
 
-'hi nana'
+`hi nana`
 
-'print("hello world")'
+`print("hello world")`
 
 
-'''python
+```python
 print("hello world")
-'''
+```
+
+![alt text](image.png)
